@@ -22,3 +22,13 @@ gemini.yahoo.com
 adtech.yahooinc.com
 appmetrica.yandex.ru
 metrika.yandex.ru
+https://ads.google.com
+https://affiliationjs.s3.amazonaws.com
+https://advertising-api-eu.amazon.com
+https://ads.facebook.com
+https://advertising.twitter.com
+https://ads-dev.pinterest.com
+https://widgets.pinterest.com
+https://ads.reddit.com
+https://ads.yap.yahoo.com
+https://securemetrics.apple.com
